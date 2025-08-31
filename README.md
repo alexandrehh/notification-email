@@ -61,10 +61,8 @@
 ### RabbitMQ
 
    ```
-      spring.rabbitmq.host=localhost
-      spring.rabbitmq.port=5672
-      spring.rabbitmq.username=usuario_rabbit
-      spring.rabbitmq.password=senha_rabbit
+      spring.rabbitmq.addresses=url_rabbit
+      spring.rabbitmq.queue=rabbit_queue
    ```
 
 ### SMTP (para envio de e-mails)
