@@ -25,7 +25,7 @@
 
 ---
 
-## ⚙️ Instalação
+## 🔨 Instalação
 
 ### Pré-requisitos
 
@@ -33,7 +33,7 @@
 - **RabbitMQ** em execução
 - **PostgreSQL** configurado e rodando
 
-## Configuração
+## ⚙️ Configuração
 
 ### Passos para rodar o projeto localmente
 
