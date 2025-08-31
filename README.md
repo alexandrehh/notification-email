@@ -52,28 +52,28 @@
 
 ### PostgreSQL
 
-    ```
-    spring.datasource.url=jdbc:postgresql://localhost:5432/seu_banco
-    spring.datasource.username=seu_usuario
-    spring.datasource.password=sua_senha
-    ```
+   ```
+     spring.datasource.url=jdbc:postgresql://localhost:5432/seu_banco
+     spring.datasource.username=seu_usuario
+     spring.datasource.password=sua_senha
+   ```
 
 ### RabbitMQ
 
-    ```
-    spring.rabbitmq.host=localhost
-    spring.rabbitmq.port=5672
-    spring.rabbitmq.username=usuario_rabbit
-    spring.rabbitmq.password=senha_rabbit
-    ```
+   ```
+      spring.rabbitmq.host=localhost
+      spring.rabbitmq.port=5672
+      spring.rabbitmq.username=usuario_rabbit
+      spring.rabbitmq.password=senha_rabbit
+   ```
 
 ### SMTP (para envio de e-mails)
 
-    ```
-    spring.mail.host=smtp.exemplo.com
-    spring.mail.port=587
-    spring.mail.username=seu_email
-    spring.mail.password=sua_senha
-    spring.mail.properties.mail.smtp.auth=true
-    spring.mail.properties.mail.smtp.starttls.enable=true
-    ```
+   ```
+      spring.mail.host=smtp.exemplo.com
+      spring.mail.port=587
+      spring.mail.username=seu_email
+      spring.mail.password=sua_senha
+      spring.mail.properties.mail.smtp.auth=true
+      spring.mail.properties.mail.smtp.starttls.enable=true
+   ```
